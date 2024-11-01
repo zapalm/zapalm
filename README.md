@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![@zapalm's Holopin badges](https://holopin.me/zapalm)](https://holopin.io/@zapalm)
+
 <!--
 **zapalm/zapalm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
